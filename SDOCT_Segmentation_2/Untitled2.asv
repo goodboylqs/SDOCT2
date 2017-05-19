@@ -1,0 +1,6 @@
+ I = imread('D:\PROJECT\SDOCT_Segmentation_Code\SDOCT_Segmentation_2\AfterFlattern.bmp');
+for i=1:1:1024
+    for j=1:1:512
+        A(i,j) = (I(i,j,1) + I(i,j,2) + I(i,j,3)) / 3;
+    end
+end

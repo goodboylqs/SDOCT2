@@ -1,0 +1,10 @@
+img = imread('D:\PROJECT\SDOCT_Segmentation_Code\SDOCT_Segmentation_2\AfterLabor_m.bmp');
+[rows,cols]=size(img);
+ r=zeros(rows,cols);
+ g=zeros(rows,cols);
+ b=zeros(rows,cols);
+ r=double(img);
+ g=double(img);
+ b=double(img);
+ rgb=cat(3,r,g,b);
+ imwrite(uint8(rgb),'D:\PROJECT\SDOCT_Segmentation_Code\SDOCT_Segmentation_2\AfterLabor_m.bmp');

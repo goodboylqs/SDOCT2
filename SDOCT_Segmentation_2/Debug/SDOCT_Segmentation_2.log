@@ -1,0 +1,14 @@
+﻿  AssignWeight.cpp
+  正在生成代码...
+  正在编译...
+  fit.cpp
+  bend.cpp
+  LaborLowNoise.cpp
+  FlatternImage.cpp
+d:\project\sdoct_segmentation_code\sdoct_segmentation_2\flatternimage.cpp(11): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  FindPath.cpp
+  Brightestcpp.cpp
+  BmpRead.cpp
+  正在生成代码...
+  SDOCT_Segmentation_2.vcxproj -> D:\PROJECT\SDOCT_Segmentation_Code\SDOCT_Segmentation_2\Debug\SDOCT_Segmentation_2.exe
+  SDOCT_Segmentation_2.vcxproj -> D:\PROJECT\SDOCT_Segmentation_Code\SDOCT_Segmentation_2\Debug\SDOCT_Segmentation_2.pdb (Partial PDB)
